@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halo 4 Modder", "Halo 4 Modder\Halo 4 Modder.csproj", "{EDF9F123-CD5F-4B4A-BF52-7800B3711831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloDevelopmentExtender", "C:\Users\Christian\Desktop\Halo 4 Modder\HaloDevelopmentExtender\HaloDevelopmentExtender.csproj", "{E9BE2543-803B-4786-AD05-0BFC82674F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloReach3d", "C:\Users\Christian\Desktop\Halo 4 Modder\HaloReach3d\HaloReach3d.csproj", "{802E6447-BAD5-4957-9C4B-683C702E14F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF9F123-CD5F-4B4A-BF52-7800B3711831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF9F123-CD5F-4B4A-BF52-7800B3711831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF9F123-CD5F-4B4A-BF52-7800B3711831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF9F123-CD5F-4B4A-BF52-7800B3711831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BE2543-803B-4786-AD05-0BFC82674F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BE2543-803B-4786-AD05-0BFC82674F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BE2543-803B-4786-AD05-0BFC82674F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BE2543-803B-4786-AD05-0BFC82674F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802E6447-BAD5-4957-9C4B-683C702E14F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802E6447-BAD5-4957-9C4B-683C702E14F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802E6447-BAD5-4957-9C4B-683C702E14F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802E6447-BAD5-4957-9C4B-683C702E14F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<appinfo>
+<version>1.0.4.0</version>
+<url>http://www.xantecgames.com/halo4modder/Halo 4 Modder.exe</url>
+<updUrl>http://www.xantecgames.com/halo4modder/Updater.exe</updUrl>
+<about>Added Refresh Shaders(Vonkova asked for it. IDK what the fuck it is.) 
+Program now saves your XDK's name</about>
+</appinfo>
